@@ -111,4 +111,4 @@ urllib3==2.2.3
 webencodings==0.5.1
 wrapt==1.17.0
 yarl==1.18.0
-zipp==3.21.
+zipp
