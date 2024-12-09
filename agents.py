@@ -1,4 +1,5 @@
 from crewai import Agent
+import groq
 from langchain_openai import ChatOpenAI
 from tools.browser_tools import BrowserTools
 from tools.search_tools import SearchTools
