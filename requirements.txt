@@ -6,7 +6,7 @@ langchain==0.1.7
 langchain-community==0.0.20
 langchain-core==0.1.23
 setuptools
-pkg_resources
+
 langchain-community
 langchain-openai==0.0.2.post1
 openai==1.12.0
