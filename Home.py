@@ -8,8 +8,8 @@ def main():
     # Sidebar
     with st.sidebar:
         st.markdown("<h2 class='sub-title'>Quick Actions</h2>", unsafe_allow_html=True)
-        st.page_link("pages/Create_Post.py", label="Create New Post", icon="✍️")
-        st.page_link("pages/About_Us.py", label="About Us", icon="ℹ️")
+        st.page_link("Create_Post", label="Create New Post", icon="✍️")
+        st.page_link("About_Us", label="About Us", icon="ℹ️")
         
         st.markdown("<h2 class='sub-title'>Templates</h2>", unsafe_allow_html=True)
         templates = {
